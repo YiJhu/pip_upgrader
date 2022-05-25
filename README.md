@@ -1,3 +1,3 @@
 # pip_upgrader
 
-Make pip package upgrades faster.
+Make pip packages upgrades faster.
